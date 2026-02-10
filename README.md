@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # 🚀 Open Source Contribution – Complete Step-by-Step Plan
+=======
+🚀 Open Source Contribution – Complete Step-by-Step Plan
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/2c709f3f-cc83-43ae-b06d-0242c606bb31" />
+>>>>>>> 2cbe201a804704a756aa8fbf09fb3386e9ae7228
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/2c709f3f-cc83-43ae-b06d-0242c606bb31" />
 
